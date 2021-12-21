@@ -5,7 +5,7 @@ This repo is the model creator for a spotify recommender. In the first iteration
 In order to create the model you need to:
 
 1. Clone this repo
-   - `git clone git@github.com:spotify-recommender/model.git`
+   - `git clone git@github.com:spotify-recommender/spotify-recommender.git`
 2. Provide conforming spotify data
    - Data should be placed in the `spotify/data` folder and saved as `tracks_features.csv`
 3. Run the create_baseline.py code
